@@ -1,4 +1,4 @@
-The flowgraph for the above code can be represented as follows:
+The flowgraph for the e-coomerce web app can be represented as follows:
 1.	Start
 2.	Check attempts > 0 && !isLoggedIn
 3.	Prompt for username
